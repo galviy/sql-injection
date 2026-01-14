@@ -74,6 +74,11 @@ username=admin' AND (SELECT 1 FROM (SELECT(SLEEP(5)))a) AND '1'='1&password=admi
 If delay occurs, the target is vulnerable to  
 **Time-Based Blind SQL Injection**.
 
+## real poc (univesitas diponogoro sia_system)
+
+![PoC Screenshot]([https://i.imgur.com/xxxxxxx.png](https://github.com/galviy/sql-injection/blob/main/images/image.png?raw=true))
+![PoC Screenshot]([https://github.com/galviy/sql-injection/blob/main/images/image2.png?raw=true))
+
 ---
 
 ## Supported Databases
