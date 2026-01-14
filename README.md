@@ -76,8 +76,9 @@ If delay occurs, the target is vulnerable to
 
 ## real poc (univesitas diponogoro sia_system)
 
-![PoC Screenshot]([https://i.imgur.com/xxxxxxx.png](https://github.com/galviy/sql-injection/blob/main/images/image.png?raw=true))
-![PoC Screenshot]([https://github.com/galviy/sql-injection/blob/main/images/image2.png?raw=true))
+![PoC Screenshot](images/image.png)
+![PoC Screenshot](images/image2.png)
+
 
 ---
 
